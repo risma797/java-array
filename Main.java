@@ -7,9 +7,6 @@
         {"*", "*", "*", "x", "*"},
     };
 
-    // Lantai 1 kamar nomor 5 // row 1 col 5
-    // Lantai 4 kamar nomor 4 // row 4 col 4
-
     public static void main(String[] args) {
         int availableRoom = 0;
         for(int i = 0; i < roomArray.length; i++) {
